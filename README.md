@@ -1,4 +1,4 @@
-# Project Title: Web Scraping, Data Analysis & Visualization with Python
+# Web Scraping, Data Analysis & Visualization with Python
 
 ![Project Logo](./download.png)
 
